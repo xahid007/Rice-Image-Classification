@@ -10,13 +10,13 @@ The dataset used in this project consists of a collection of rice images. It con
 git clone
 
 **Navigate to the project directory:**
-cd rice-image-classification
+```cd rice-image-classification```
 
 **Set up the environment:**
 Ensure you have Python installed (version >= 3.6) along with pip.
 
 **Install the required packages by running:**
-pip install -r requirements.txt
+``` pip install -r requirements.txt```
 
 
 ### **Usage**
