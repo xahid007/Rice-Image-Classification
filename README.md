@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Rice Image Classification using CNN
 This project focuses on classifying rice images using a Convolutional Neural Network (CNN). The CNN architecture is designed to extract relevant features from the images and make accurate predictions about different types of rice.
 
